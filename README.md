@@ -1,2 +1,2 @@
 # Malicious-URL-Detection
-Machine Learning Modules for detecting malicious URLs.
+Machine Learning Model for detecting malicious URLs.
